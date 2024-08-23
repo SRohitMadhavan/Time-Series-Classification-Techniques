@@ -14,7 +14,7 @@ Address the problem statement and explore other techniques to solve similar and 
 
 ### Notebook 1 overview
 
--In notebook 1 try to cluster time series in an unsupervised manner (No labels, the models learns patterns from the data on its own).
+-In notebook 1 try to cluster time series in an unsupervised manner (labels are not present for the data points, the models learns patterns from the data on its own).
 
 -We generate our own time series dataset.
 
