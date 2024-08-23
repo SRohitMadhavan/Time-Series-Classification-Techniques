@@ -33,7 +33,7 @@ Address the problem statement and explore other techniques to solve similar and 
 
 -The [FordA dataset](https://www.timeseriesclassification.com/description.php?Dataset=FordA) is analyzed.
 
--The classification problem is to diagnose whether a certain sympton exists or does ont exist in an automotive subsystem.
+-The classification problem is to diagnose whether a certain sympton exists or does not exist in an automotive subsystem.
 
 -Each case consists of 500 time step univariate time series.
 
