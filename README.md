@@ -1,6 +1,6 @@
 # Exploring techniques for unsupervised and supervised time series classification
 
-#### Notebook 1
+#### Notebook 1 overview:
 
 -In notebook 1 we generate our own time series dataset.
 
@@ -14,9 +14,17 @@
 
 -We then cluster the time series using k means clustering and hierarchical clustering in an unsupervised manner.
 
-#### Notebook 2
+-Detailed documentation in the notebook
+
+
+#### Notebook 2 overview:
 
 -The FordA dataset is analyzed.
+
 -The classification problem is to diagnose whether a certain sympton exists or does ont exist in an automotive subsystem.
+
 -Each case consists of 500 time step univariate time series.
+
 -Classification done using a CNN model build with the help of pytorch in a supervised manner.
+
+-Detailed documentation in the notebook
