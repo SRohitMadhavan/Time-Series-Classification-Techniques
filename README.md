@@ -20,8 +20,9 @@ Address the problem statement and explore other techniques to solve similar and 
 
 -Time series generation functions:
 
-1.sin(2 *pi * variable * list of required no. of data points between 0 and 1) + random gaussian noise
-2.cos(2 * pi * variale * list of required no. of data points between 0 and 1) + random gaussian noise
+1.sin(2 *pi *  list of required no. of data points between 0 and 1) + random gaussian noise
+
+2.cos(2 * pi *  list of required no. of data points between 0 and 1) + random gaussian noise
 
 -For the given time series, lag is found to be the main metric to cluster the time series based on data analysis
 
